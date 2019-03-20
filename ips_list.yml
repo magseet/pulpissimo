@@ -21,7 +21,7 @@
 pulp_soc:
   commit: master
   server: https://github.com
-  group:  pulp-platform
+  group:  magseet
 
 tbtools:
   commit: master
